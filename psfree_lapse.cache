@@ -1,12 +1,14 @@
-CACHE MANIFEST 
-# PSFree-Lapse
+CACHE MANIFEST
 
-
+CACHE:
+index.html
+cache.html
+bg.jpg
+favicon.ico
+alert.mjs
 about.html
 alert.mjs
-cache.html
 config.mjs
-index.html
 lapse.mjs
 aio_patches.bin
 goldhen.bin
