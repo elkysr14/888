@@ -1,18 +1,16 @@
-CACHE MANIFEST
+CACHE MANIFEST 
+# PSFree-Lapse
 
-CACHE:
-index.html
-cache.html
-bg.jpg
-favicon.ico
-alert.mjs
 about.html
 alert.mjs
+cache.html
 config.mjs
+index.html
 lapse.mjs
 aio_patches.bin
 goldhen.bin
 psfree.mjs
+img.jpg
 fonts\LiberationMono-Regular.ttf
 kpatch\900.elf
 module\chain.mjs
